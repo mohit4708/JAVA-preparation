@@ -11,7 +11,9 @@ public class Leapyear {
         {
             System.out.println("The entered year is a Leap year");
         }
-
+        else{
+            System.out.println("The entered year is not a leap year");
+        }
 
     }
 }
