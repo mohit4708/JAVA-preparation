@@ -2,5 +2,5 @@ openapi: 3.0.0
 info:
   version: 1.0.0
   title: ''
-  description: 'This OpenAPI spec is created in Swaggerhub and being pushed to Github'
+  description: 'This OpenAPI spec line is edited in Github'
 paths: {}
